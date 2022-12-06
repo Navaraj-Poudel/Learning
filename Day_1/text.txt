@@ -1,3 +1,26 @@
-my name is navaraj Poudel
-i am from butwal
-Electronics Engineer to be
+ /////Basic git command
+ 
+ git init : -> initialize blank repository
+            -> It create ,git folder in current working folder
+ 
+ git commit : -> used to save the change to the local repository
+  
+ git add : -> add the file to stagging area
+
+ git add . : -> It add all the file to  the stagging area
+
+ git status : -> Display state of current repo and stagging area
+
+ git push : -> It upload the content from local repo to remote repo 
+ 
+ git merge : -> Integrate different branches into a single branches 
+
+ git pull : -> It fetch new commit and merge them into the local branch
+
+ git clone : -> create a copy of the target repo at new place
+
+ git branch : -> create,list,rename,and delete branches
+
+ git check-out : -> It enable switches between branches 
+
+
