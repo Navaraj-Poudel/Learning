@@ -1,2 +1,2 @@
-yo chai nya edited readme haii .....done by ajay don
-
+naya naya sal hai 
+naya naya mal haiX
